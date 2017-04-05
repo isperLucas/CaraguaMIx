@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #6495ED;
+  color: black;
+  opacity: 1;
+}
+.img-responsive {
+  margin: auto;
+  margin-top: 112px;
+  margin-bottom: 20px;
+}
+.btn-default {
+  background-color: #6495ED;
+  color: black;
+  margin-top: 20px;
+}
+.btn-default:hover {
+  background-color: green;
+  color: white;
+}
